@@ -1,0 +1,1 @@
+(function(scope) {if (scope["__vekterVariables"]) { scope["__vekterVariables"].map(function(variable) { delete scope[variable] } ) };Object.assign(scope, {});scope["__vekterVariables"] = [""];if (typeof Framer.CurrentContext.layout === 'function') {Framer.CurrentContext.layout()};})(window);
