@@ -25,7 +25,8 @@ The Workshop curriculum is as follows:
 - Slides: Intro to Programming  
 
 **Lab 1**  
-- Concept review: Write out in pseudocode five different types of events present in apps and what properties they change  
+- Concept review
+    - Write out in pseudocode five different types of events present in apps and what properties they change  
 - Build your own simple interaction or flow with Framer's design editor or Sketch  
 
 **Lesson 2: Board Picker**
@@ -52,7 +53,7 @@ The Workshop curriculum is as follows:
     - Utils.modulate()  
 
 **Lab 3**  
-- Concept review: 
+- Concept review 
     - Identify 3 behaviors in an app that could use a conditional statement. Write out the behavior modeled by those in pseudocode  
     - Identify some interactions that could use Utils.modulate  
 - Add some more conditions into the header example
