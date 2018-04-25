@@ -32,8 +32,8 @@ The Workshop curriculum is as follows:
     - Write out in pseudocode five different types of events present in apps and what properties they change  
 - Build your own simple interaction or flow with Framer's design editor or Sketch  
 
-**Lesson 2: Board Picker**
-- Concepts covered
+**Lesson 2: Events and States**
+- Example: Board picker
     - Sketch file importing
     - Events
     - States 
@@ -49,8 +49,8 @@ The Workshop curriculum is as follows:
 - Know how and when to use an if/else conditional statement  
 - Feel comfortable reading through Framer's documentation  
 
-**Lesson 3: Header modulation on scroll**  
-- Concepts covered
+**Lesson 3: Conditionals**  
+- Example: Header modulation on scroll
     - ScrollComponents
     - Conditionals: If/else
     - Utils.modulate()  
@@ -61,8 +61,8 @@ The Workshop curriculum is as follows:
     - Identify some interactions that could use Utils.modulate  
 - Add some more conditions into the header example
 
-**Lesson 4: Grid to Closeup**
-- Concepts covered
+**Lesson 4: Layer relationships**
+- Example: Grid to closeupConcepts covered
   - Parent/child layer relationships
   - Relative positioning based on parent or screen
   - “visible” vs “opacity”
@@ -77,8 +77,8 @@ The Workshop curriculum is as follows:
 - Know how and when to use a for loop
 - Know how and when to use a object/dictionary
 
-**Lesson 5: Three-column grid**  
-- Concepts covered
+**Lesson 5: For loops**  
+- Example: Three-column grid
   - For loops
   - Arrays/Lists
   - Scope
@@ -93,10 +93,9 @@ The Workshop curriculum is as follows:
   - Make all the options in the board picker example work  
   - Make Grid to Closeup work for any Pin! (Change 2 lines of code)  
 
-**Lesson 6: Tabs**
-- Concepts covered  
-  - New data struction: the dictionary (sometimes called object or hashmap)  
-- Tabs example  
+**Lesson 6: Dictionaries**
+- Example: tabs
+  - Dictionaries/Objects 
 
 **Lab 6**  
 - Build a masonry grid
@@ -108,7 +107,7 @@ The Workshop curriculum is as follows:
 - Be able to iterate through JSON data  
 - Identify when code can be cleaned up  
 
-**Lesson 7: APIs**  
+**Lesson 7: JSON Parsing**  
 - Slides: Intro to APIs  
 - Building a masonry grid with JSON data  
 
