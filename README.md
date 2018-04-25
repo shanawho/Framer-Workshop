@@ -1,5 +1,5 @@
 # Framer Workshop
-This repo contains curriculum from a four-day workshop run by Shana Hu at Pinterest in December 2017. The curriculum is designed for people with little to no experience in Framer and programming, although it is scaffolded in a way to allow more experienced prototypers also attend.
+This repo contains curriculum from a four-day workshop developed and led by Shana Hu at Pinterest in December 2017. The curriculum is designed for people with little to no experience in Framer and programming, although it is scaffolded in a way to allow more experienced prototypers also attend.
 
 
 ## Format  
@@ -10,6 +10,9 @@ The Workshop is split into two tracks: *Intro to Framer* and *More with Framer*.
 *More with Framer* is the latter two days and builds on the first track. The focus for this second track features lessons where Framer really starts to shine, meaning students will learn concepts like loops, dictionaries, and making API calls.  
 
 Each day features two lessons and suggested lab exercises. Students are encouraged to focus on the material and apply their own take on the examples. I recommend allowing for plenty of free work time on the first day in particular and encouraging students to build something of their own from scratch. This way, they'll get plenty of practice applying the two basic concepts of events and states.
+
+This curriculum can also be broken up into weekly lessons for more of an extended learning approach. I recommend pairing a week-by-week format with mandatory homework to ensure participants maximize their learning.
+
 
 ## Curriculum  
 The Workshop curriculum is as follows:
