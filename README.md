@@ -69,7 +69,7 @@ The Workshop curriculum is as follows:
     - Make the back button + animation work
 
 
-### Day 3: *More to Framer I* - Scability and Full Interactivity
+### Day 3: *More to Framer I* - Scalability and Full Interactivity
 **Goals** 
 - Know how and when to use a for loop
 - Know how and when to use a object/dictionary
