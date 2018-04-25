@@ -70,7 +70,7 @@ The Workshop curriculum is as follows:
 
 ### Day 3: *More to Framer I* - Scability and Full Interactivity
 **Goals** 
-- Know how and whento use a for loop
+- Know how and when to use a for loop
 - Know how and when to use a object/dictionary
 
 **Lesson 5: Three-column grid**  
