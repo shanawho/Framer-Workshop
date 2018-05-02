@@ -62,7 +62,7 @@ The Workshop curriculum is as follows:
 - Add some more conditions into the header example
 
 **Lesson 4: Layer relationships**
-- Example: Grid to closeupConcepts covered
+- Example: Grid to closeup  
   - Parent/child layer relationships
   - Relative positioning based on parent or screen
   - “visible” vs “opacity”
