@@ -68,7 +68,7 @@ The Workshop curriculum is as follows:
   - “visible” vs “opacity”
 
 **Lab 4**  
-- Build on grid to closeup
+- Build on grid to closeup  
     - Make the back button + animation work
 
 
